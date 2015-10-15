@@ -1,0 +1,43 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{hyperref}
+\usepackage[top=0.75in, left=0.75in, right=0.75in, bottom=0.75in]{geometry}
+\author{John Muschelli}
+
+\begin{document}
+\thispagestyle{empty}
+
+\begin{center}
+{\bf
+{\large Teaching Statement }\\
+John Muschelli
+}
+\end{center}
+\vspace{-2em}
+\paragraph{Teaching Philosophy} Throughout my graduate career, I have had ample exposure and opportunity to develop my teaching skills.  I was a teaching assistant (TA) for every semester except one and tutored students outside the classroom.  My overall goal in teaching is to help others learn.  Grades are secondary to the acquired knowledge and skills to answer future questions without an instructor.  
+
+I have prepared hour-long lab sessions, held office hours,  written and prepared examinations and quizzes in moderately-sized (N=60) classes such as Methods in Biostatistics and large (N=500) classes such as Statistical Methods in Public Health.  The most directly applicable teaching has been co-instructing an Introduction to R class, a 5 day, 8-hour course in the Winter and Summer Institutes and instructing a small-group workshop of clinicians and researchers on how to program in R.  At the ENAR 2015 meeting, another graduate student and I prepared and delivered a 1 hour, 45-minute tutorial on brain imaging for statisticians.  We developed the course material, presentation slides, and code for distribution.  I have also developed a Massive Online Open Course (MOOC) that will be deployed as part of the Coursera specialization on Neuroimaging. 
+
+In these different courses, I have had a large diversity of students.  In all courses I have found that {\bf live feedback} and working with {\bf data as soon as possible} lead to the best outcomes.  In classes with less-advanced students, bringing the concepts back to a single concrete example helps ground the discussion.  I call on students to re-iterate the interpretation of results.  Classes with more-advanced students ask fewer questions, usually due to class size. Prompting and pushing this discussion after presenting a concept is crucial to converting the information into knowledge.  Having these students present in class a synthesis of a topic allows students to demonstrate understanding.
+
+Thus, in my teaching I always use multiple real examples to demonstrate how a method is applied, how assumptions can be tested, and how to interpret results of the output. In the absence of this, much of the information remains too abstract.
+
+
+\vspace{-1em}
+\paragraph{Teaching Style and Tools} In applied classes, I have found that going through an analysis script from scratch can convey a difficult concept to teach: the decision making process of analysis.  Using prepared scripts and analyses, I also show how to weave the analysis methods, decisions, and results into a comprehensive narrative, usually resulting in a report.  One thing I stress continuously is to justify all decisions and choices made in an analysis.  These decisions may be straightforward, such as why an analytic method was chosen, or more subtle, such as writing a compelling caption that justifies the presence of a particular plot.  I reinforce that analysis must be reproducible, for scientific integrity and for the ability to re-run an analysis with slight changes. During these interactive sessions, I commonly record my screen and publish the videos on the web (e.g. YouTube) for students to have a resource after class as well as create a digital library of work for future classes.  A link to some of my YouTube videos can be found here \url{https://www.youtube.com/user/mjmusch/videos}.
+
+In methodological classes, I find that simulations can illustrate the results of a proof well, such as the asymptotic behavior of an estimator or the coverage of a confidence interval.  I have also found that writing proofs and steps explicitly versus using prepared slides allows students to see the thought process of the proof.  Writing also provides a natural tempo to the class so that students have more opportunity to digest the material and ask questions if the delivery needs to be clarified.
+
+\vspace{-1em}
+\paragraph{Evaluation} Clarity is important when assessing student performance.  Using checklists and rubrics helps students understand the criteria required for an assignment.  Having the professor or TA grade the coursework is important for assessment.  However, I have also experimented with peer-reviewing, which actually worked much better than expected. Indeed, students provided more in-depth feedback when they graded their peers' work. The same was reported by online class instructors, which provides an important insight for very large online courses.
+
+\vspace{-1em}
+\paragraph{Organization} Overall, class organization is integral to a positive teaching experience for students.  More importantly, constantly iterating what the {\bf main goals} are and specifically {\bf why} the tasks are required is essential.  Without conveying the purpose, the knowledge cannot fit into their greater understanding of the field.
+
+\vspace{-1em}
+\paragraph{Courses I would like to teach.} Given my experience and expertise in teaching and research, I believe the classes I would be best suited to teach would include: Applied Statistics, Computational Statistics, Data Science, Statistical Consulting, Statistical Methods, and R Programming.  
+
+\end{document}
