@@ -11,3 +11,5 @@ Interesting_Project.txt
 *.out
 *.synctex.gz
 *.bak
+.dropbox
+.dropbox/*
