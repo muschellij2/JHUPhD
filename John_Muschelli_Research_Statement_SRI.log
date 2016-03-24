@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.1.4)  30 OCT 2015 16:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.1.4)  29 FEB 2016 21:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**John_Muschelli_Teaching_Statement.tex
-(./John_Muschelli_Teaching_Statement.tex
+**John_Muschelli_Research_Statement_SRI.tex
+(./John_Muschelli_Research_Statement_SRI.tex
 LaTeX2e <2014/05/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/article.cls
@@ -444,8 +444,8 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \Gm@layoutvoffset=\dimen123
 \Gm@dimlist=\toks22
 )
-(./John_Muschelli_Teaching_Statement.aux)
-\openout1 = `John_Muschelli_Teaching_Statement.aux'.
+(./John_Muschelli_Research_Statement_SRI.aux)
+\openout1 = `John_Muschelli_Research_Statement_SRI.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
@@ -476,10 +476,10 @@ LaTeX Info: Redefining \ref on input line 10.
 LaTeX Info: Redefining \pageref on input line 10.
 LaTeX Info: Redefining \nameref on input line 10.
 
-(./John_Muschelli_Teaching_Statement.out)
-(./John_Muschelli_Teaching_Statement.out)
+(./John_Muschelli_Research_Statement_SRI.out)
+(./John_Muschelli_Research_Statement_SRI.out)
 \@outlinefile=\write3
-\openout3 = `John_Muschelli_Teaching_Statement.out'.
+\openout3 = `John_Muschelli_Research_Statement_SRI.out'.
 
 
 *geometry* driver: auto-detecting
@@ -491,14 +491,14 @@ LaTeX Info: Redefining \nameref on input line 10.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(54.2025pt, 489.10287pt, 54.2025pt)
-* v-part:(T,H,B)=(54.2025pt, 736.64185pt, 54.2025pt)
+* v-part:(T,H,B)=(36.135pt, 754.70935pt, 54.2025pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=489.10287pt
-* \textheight=736.64185pt
+* \textheight=754.70935pt
 * \oddsidemargin=-18.06749pt
 * \evensidemargin=-18.06749pt
-* \topmargin=-55.06749pt
+* \topmargin=-73.135pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=12.0pt
@@ -516,34 +516,47 @@ LaTeX Info: Redefining \nameref on input line 10.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 27.
 [1
 
 {/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 27.
+LaTeX Font Info:    Try loading font information for U+msa on input line 46.
 
-(./John_Muschelli_Teaching_Statement.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 27.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 27.
-Package rerunfilecheck Info: File `John_Muschelli_Teaching_Statement.out' has n
-ot changed.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 46.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 60.
+ [2] [3]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 60.
+
+(./John_Muschelli_Research_Statement_SRI.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 60.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 60.
+Package rerunfilecheck Info: File `John_Muschelli_Research_Statement_SRI.out' h
+as not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 27.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 60.
  ) 
 Here is how much of TeX's memory you used:
- 5692 strings out of 493109
- 81447 string characters out of 6135005
- 166566 words of memory out of 5000000
- 9145 multiletter control sequences out of 15000+600000
- 4552 words of font info for 17 fonts, out of 8000000 for 9000
+ 5744 strings out of 493109
+ 82219 string characters out of 6135005
+ 170570 words of memory out of 5000000
+ 9170 multiletter control sequences out of 15000+600000
+ 9068 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,4n,24p,633b,322s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,4n,24p,1014b,322s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on John_Muschelli_Teaching_Statement.pdf (1 page, 29649 bytes).
+></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
+/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on John_Muschelli_Research_Statement_SRI.pdf (3 pages, 48992 byt
+es).
 PDF statistics:
- 21 PDF objects out of 1000 (max. 8388607)
- 15 compressed objects within 1 object stream
- 2 named destinations out of 1000 (max. 500000)
+ 44 PDF objects out of 1000 (max. 8388607)
+ 35 compressed objects within 1 object stream
+ 9 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
