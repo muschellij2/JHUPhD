@@ -6,3 +6,8 @@ Letters_of_Ref.txt
 Muschelli_List_of_Jobs.xlsx
 Signature.pdf
 Interesting_Project.txt
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.bak
