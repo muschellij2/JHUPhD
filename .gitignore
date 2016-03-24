@@ -13,3 +13,4 @@ Interesting_Project.txt
 *.bak
 .dropbox
 .dropbox/*
+.run.xml
