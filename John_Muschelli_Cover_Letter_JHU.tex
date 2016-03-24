@@ -1,0 +1,58 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{hyperref}
+\usepackage[top=0.5in, left=0.75in, right=0.75in, bottom=0.75in]{geometry}
+\author{John Muschelli}
+
+\usepackage{ifthen}
+\newboolean{the} 
+\setboolean{the}{true}   
+\usepackage{graphicx}
+
+\begin{document}
+\thispagestyle{empty}
+
+
+\newcommand{\salutation}{ }
+\newcommand{\department}{Department of Biostatistics}
+\newcommand{\institution}{Johns Hopkins Bloomberg School of Public Health}
+\newcommand{\specificending}{}
+\newcommand{\position}{Assistant Professor}
+
+\begin{center}
+{\bf
+{\large Cover Letter: \position{ }at \ifthenelse{\boolean{the}}{the }{}\institution}\\
+John Muschelli
+}
+\end{center}
+
+
+\salutation
+\vspace{2em}
+
+
+I would like to be considered for your \position{ }position in the \department{ }at \ifthenelse{\boolean{the}}{the }{}\institution.  
+
+I did not become a PhD student lightly.  During my 8-year tenure at in the Department of Biostatistics at the Johns Hopkins Bloomberg School of Public Health, I have been a Master's-level student, a research-track faculty consultant, and finally a PhD student and expect to graduate in May 2016.  As a Master's student, I developed skills for analysis with much breadth, but wanted more depth.  As a consultant, I had the opportunity to collaborate extensively with researchers.  However, I realized gaps in my knowledge and certain constraints of not having a PhD.  Although it was a 4-year investment, becoming a PhD student allowed me the freedom to learn additional skills, work on problems I felt necessary and important, and understand the requirements for a successful academic career. 
+
+Under the direction of my advisor, Dr.~Ciprian Crainiceanu, my dissertation focused on developing automated tools for assessing clinical biomarkers for disease prognosis, specifically in neuroimaging. I studied brain images in both magnetic resonance imaging and computed tomography.  I have developed statistical methods for image segmentation for hemorrhagic stroke and lesions in patients with multiple sclerosis.  The image analysis of these clinical populations previously was done in semi-automated or qualitative ways; my goal was to provide more quantitative and statistical rigor to the analysis.  
+
+Methodological contributions can only be considered complete when accompanied by the necessary tools (i.e.~software).  Thus, in addition to my expertise in neuroimaging, I also have extensive experience in package development in the R programming language.  I have created over 8 R packages for analysis and visualization that are hosted both on CRAN and GitHub.  
+
+During my graduate career, I have been fortunate to also serve as a teaching assistant and co-instructor for multiple classes.  These student population included a large variety of graduate students, researchers, and clinicians.  As a teaching assistant, I have prepared hour-long lab sessions, held office hours, as well as written and prepared examinations and quizzes in moderately sized (N=60) classes such as Methods in Biostatistics and large (N=500) classes such as Statistical Methods in Public Health.  As such, I have developed a strong interest in training new students on sound statistical methods, R programming, and neuroimage analysis.
+
+\specificending
+
+\vspace{3em}
+I am enclosing my CV and statements of teaching and research. Letters of recommendation will be mailed separately. Thank you very much for your consideration. 
+
+\vspace{1em}
+
+John Muschelli\\
+\includegraphics[scale=0.3]{Signature.pdf}
+
+\end{document}
+
