@@ -15,3 +15,9 @@ Interesting_Project.txt
 .dropbox/*
 .run.xml
 *_SRI.*
+Total_Packet/*.aux
+Total_Packet/*.log
+Total_Packet/*.out
+Total_Packet/*.synctex.gz
+Total_Packet/*.bak
+Total_Packet/Unofficial_Transcript.pdf
